@@ -1,14 +1,5 @@
 package com.mycompany.desafiobim;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author MauricioAsenjo
- */
 public class LivroBLL {
 
 public static void validaTitulo(char _op, Livro _umlivro)

@@ -1,14 +1,5 @@
 package com.mycompany.desafiobim;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author MauricioAsenjo
- */
 public class Livro {
 private String titulo;
 private String autor;
