@@ -1,0 +1,21 @@
+# Firebase
+firebase-key.json
+google-services.json
+
+# Build Java
+/build/
+/dist/
+/target/
+
+# IDE
+nbproject/private/
+*.iml
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
