@@ -36,9 +36,8 @@ O projeto foi desenvolvido com o objetivo de praticar:
 ## 🎥 Demonstração
 
 https://youtu.be/L0hUCJF5wtI
-```
+
 * Este Link também foi usado para a apresentação do projeto.
-```
 
 ## 🔧 Como executar o projeto
 
